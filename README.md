@@ -1,5 +1,10 @@
 
 <div align="center">
+  
+![](https://komarev.com/ghpvc/?username=EPIC-BRUH&color=A997C2&style=plastic)
+</div>
+
+<div align="center">
   <img src="https://github.com/user-attachments/assets/3d542e0e-7e7d-48b4-ad7c-39faa6f6bbb2" width="1000"/>
 </div>
 
@@ -27,8 +32,6 @@ $${\color{#FFFFFF}I\ ho \color{#F1CBEC}pe\ w \color{#A997C2}e\ both\ die. }$$
   <img src="https://github.com/user-attachments/assets/a5ef2e7a-c8c3-4be0-8698-3ac405d727d3" width="250"/>
   <p><a href="https://github.com/canidae-cross">cross</a> made this btw. hi guys </p>
 
-
-![](https://komarev.com/ghpvc/?username=EPIC-BRUH&color=A997C2&style=plastic)
 
 </div>
 
