@@ -22,7 +22,6 @@ $${\color{#FFFFFF}An \color{#F1CBEC}d\ I\ ho \color{#A997C2}pe\ you\ die }$$
 $${\color{#FFFFFF}I\ ho \color{#F1CBEC}pe\ w \color{#A997C2}e\ both\ die. }$$ 
 <br>
 <br>
-<br>
 
 <br>
   <img src="https://github.com/user-attachments/assets/a5ef2e7a-c8c3-4be0-8698-3ac405d727d3" width="250"/>
